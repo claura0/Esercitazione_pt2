@@ -1,0 +1,101 @@
+RECTANGLE TEST
+A constructor
+Polygon - constructor - default
+Rectangle - Init Constructor
+B constructor
+Polygon - constructor - default
+Rectangle - Default Constructor
+C constructor
+Polygon - constructor - default
+Rectangle - Default Constructor
+
+Getters/setters test
+Width of B:
+3
+Length of B:
+4
+
+Operators test
+Rectangle - operator =
+C and A are equal
+
+Area and perimeter
+Area of A:
+6
+Perimeter of A:
+10
+
+RHOMBUS TEST
+A constructor
+Polygon - constructor - default
+Rhombus - Init Constructor
+B constructor
+Polygon - constructor - default
+Rhombus - Default Constructor
+C constructor
+Polygon - constructor - default
+Rhombus - Default Constructor
+
+Getters/setters test
+Horizontal diagonal of B:
+2
+Vertical diagonal of B:
+4
+
+Operators test
+Rhombus - operator =
+C and A are equal
+
+Area and perimeter
+Area of A:
+6
+Perimeter of A:
+12.6491
+
+RIGHT TRIANGLE TEST
+A constructor
+Polygon - constructor - default
+RightTriangle - Init Constructor
+B constructor
+Polygon - constructor - default
+RightTriangle - Default Constructor
+C constructor
+Polygon - constructor - default
+RightTriangle - Default Constructor
+
+Getters/setters test
+Base of B:
+5
+Altitude of B:
+3
+
+Operators test
+RightTriangle - operator =
+C and A are equal
+
+Area and perimeter
+Area of A:
+2.5
+Perimeter of A:
+11.099
+
+RightTriangle - Destructor
+Polygon - destructor
+RightTriangle - Destructor
+Polygon - destructor
+RightTriangle - Destructor
+Polygon - destructor
+Rhombus - Destructor
+Polygon - destructor
+Rhombus - Destructor
+Polygon - destructor
+Rhombus - Destructor
+Polygon - destructor
+Rectangle - Destructor
+Polygon - destructor
+Rectangle - Destructor
+Polygon - destructor
+Rectangle - Destructor
+Polygon - destructor
+
+Process finished with exit code 0

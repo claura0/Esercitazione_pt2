@@ -1,0 +1,103 @@
+Choose what to do:
+
+1 - Create a Rectangle
+2 - Create a Rhombus
+3 - Create a Right Triangle
+4 - Draw all the items in the list
+5 - Exit
+
+Insert number:
+1
+
+Insert Rectangle length value:
+2
+Insert Rectangle width value:
+3
+
+Polygon - constructor - default
+Rectangle - Init Constructor
+
+Rectangle created
+
+Choose what to do:
+
+1 - Create a Rectangle
+2 - Create a Rhombus
+3 - Create a Right Triangle
+4 - Draw all the items in the list
+5 - Exit
+
+Insert number:2
+
+Insert Rhombus horizontal diagonal value:
+3
+Insert Rhombus vertical diagonal value:
+4
+
+Polygon - constructor - default
+Rhombus - Init Constructor
+
+Rhombus created
+
+Choose what to do:
+
+1 - Create a Rectangle
+2 - Create a Rhombus
+3 - Create a Right Triangle
+4 - Draw all the items in the list
+5 - Exit
+
+Insert number:3
+
+Insert Right Triangle base value:
+4
+Insert Right Triangle altitude value:
+5
+
+Polygon - constructor - default
+RightTriangle - Init Constructor
+
+Triangle created
+
+Choose what to do:
+
+1 - Create a Rectangle
+2 - Create a Rhombus
+3 - Create a Right Triangle
+4 - Draw all the items in the list
+5 - Exit
+
+Insert number:4
+
+0 - Rectangle printed
+Area = 6
+Perimeter = 10
+
+1 - Rhombus printed
+Area = 6
+Perimeter = 10
+
+2 - Triangle printed
+Area = 10
+Perimeter = 15.4031
+
+
+Choose what to do:
+
+1 - Create a Rectangle
+2 - Create a Rhombus
+3 - Create a Right Triangle
+4 - Draw all the items in the list
+5 - Exit
+
+Insert number:5
+
+Rectangle - Destructor
+Polygon - destructor
+Rhombus - Destructor
+Polygon - destructor
+RightTriangle - Destructor
+Polygon - destructor
+Exiting from the program...
+
+Process finished with exit code 0
